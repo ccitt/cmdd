@@ -1,5 +1,5 @@
 # cmdd
-Generate specifies the html format data dictionary for the mysql database.
+Generate to specify the HTML format data dictionary for the MySQL database.
 
 ## What's in a name?
 cmdd is an abbreviation for Create MySQL Data Dictionary. 
